@@ -50,3 +50,4 @@ logs/
 .DS_store
 
 # End of .gitignore
+/notebooks/classification_results.npy
