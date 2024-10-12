@@ -49,4 +49,9 @@ logs/
 # DS_store
 .DS_store
 
+# Exclude nc files
+*.nc
+
+
 # End of .gitignore
+
