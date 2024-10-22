@@ -2,13 +2,15 @@
 # Set required data paths - these are relative paths to where this script is stored
 
 # Domain, note that the name needs to match the data paths that follow - current options are: "05BB001" for the Bow River at Banff in Alberta, Canada, or "09081600" for the Crystal River Above Avalanche Creek, Near Redstone in Colorado, USA
-domain: "6006"
+domain: "2327"
 # domain: "05BB001"
 
 # Observational data path
 streamflow_obs_path: "../CH_data/CH_input_data/Qobs_Camels.nc"
-precip_obs_path: "../CH_data/CH_input_data/P_Camels.nc"
-SWE_obs_path: "../CH_data/CH_input_data/SWE_Camels.nc"
+precip_obs_path: "../CH_data/CH_input_data/P_data.nc"
+SWE_obs_path: "../CH_data/CH_input_data/SWE_data.nc"
+
+
 # streamflow_obs_path: "../test_case_data/input_data/Qobs_1979_2021_testcases.nc"
 # precip_obs_path: "../test_case_data/input_data/SCDNA_v1.1_testcases.nc"
 # SWE_obs_path: "../test_case_data/input_data/SWE_1979_2022_testcases.nc"
