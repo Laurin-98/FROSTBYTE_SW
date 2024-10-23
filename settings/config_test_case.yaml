@@ -16,7 +16,7 @@ SWE_obs_path: "../CH_data/CH_input_data/SWE_data.nc"
 # SWE_obs_path: "../test_case_data/input_data/SWE_1979_2022_testcases.nc"
 
 # GIS data paths
-basins_shp_path: "../test_case_data/input_data/basins_testcases.shp"
+basins_shp_path: "../CH_data/CH_input_data/nival_basins.shp"
 basins_dem_path: "../test_case_data/input_data/MERIT_Hydro_dem_"
 # basins_shp_path: "../test_case_data/input_data/basins_testcases.shp"
 # basins_dem_path: "../test_case_data/input_data/MERIT_Hydro_dem_"
