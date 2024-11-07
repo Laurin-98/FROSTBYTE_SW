@@ -3,20 +3,20 @@
 
 # Domain, note that the name needs to match the data paths that follow - current options are: "05BB001" for the Bow River at Banff in Alberta, Canada, or "09081600" for the Crystal River Above Avalanche Creek, Near Redstone in Colorado, USA
 
-domain: "2327"
+domain: "1762"
 
 # Observational data path
-streamflow_obs_path: "../CH_data/CH_input_data/Qobs_Camels.nc"
-precip_obs_path: "../CH_data/CH_input_data/P_data.nc"
-SWE_obs_path: "../CH_data/CH_input_data/SWE_data.nc"
+streamflow_obs_path: "../CAMELS_SW/input_data/Q_Camels_SW.nc"
+precip_obs_path: "../CAMELS_SW/input_data/P_Camels_SW.nc"
+SWE_obs_path: "../CAMELS_SW/input_data/SWE_SW.nc"
 
 # GIS data paths
-basins_shp_path: "../CH_data/CH_input_data/nival_basins.shp"
+basins_shp_path: "../CAMELS_SW/input_data/Sweden_catchments_50_boundaries_WGS84.shp"
 basins_dem_path: "../test_case_data/input_data/MERIT_Hydro_dem_"
 
 # Output data paths
-plots_path: "../CH_data/CH_output_plots/"
-output_data_path: "../CH_data/CH_output_data/"
+plots_path: "../CAMELS_SW/output_plots/"
+output_data_path: "../CAMELS_SW/output_data/"
 
 #Camels Schweiz
 #streamflow_obs_path: "../CH_data/CH_input_data/Qobs_Camels.nc"
