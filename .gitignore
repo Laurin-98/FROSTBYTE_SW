@@ -51,7 +51,9 @@ logs/
 
 # Exclude nc files
 *.nc
-
+# Exclude png
+*.png
 
 # End of .gitignore
 
+/CH_data/preprocessed_P_data/P_combined_1998_2023.csv

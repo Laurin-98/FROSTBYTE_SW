@@ -8,8 +8,8 @@ start_time = datetime.now()
 notebooks = [
     "1_RegimeClassification.ipynb",
     "2_StreamflowPreprocessing.ipynb",
-    #"3_SWEPreprocessing.ipynb",
-    "3_SWEPreprocessing_without_P_gapfilling.ipynb",
+    "3_SWEPreprocessing.ipynb",
+    #"3_SWEPreprocessing_without_P_gapfilling.ipynb",
     "4_Forecasting.ipynb",
     "5_HindcastVerification.ipynb"
 ]
