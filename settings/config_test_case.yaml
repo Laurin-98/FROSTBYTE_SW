@@ -15,8 +15,13 @@ basins_shp_path: "../CAMELS_SW/input_data/Sweden_catchments_50_boundaries_WGS84.
 basins_dem_path: "../test_case_data/input_data/MERIT_Hydro_dem_"
 
 # Output data paths
-plots_path: "../CAMELS_SW/output_plots/"
-output_data_path: "../CAMELS_SW/output_data/"
+#plots_path: "../CAMELS_SW/output_plots/"
+#output_data_path: "../CAMELS_SW/output_data/"
+
+#adjusted targetperiods
+output_data_path: "../CAMELS_SW/output_data_TP_adjust/"
+plots_path: "../CAMELS_SW/output_plots_TP_adjust/"
+
 
 #Camels Schweiz
 #streamflow_obs_path: "../CH_data/CH_input_data/Qobs_Camels.nc"
